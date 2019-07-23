@@ -1,0 +1,28 @@
+{
+  "name": "blogger",
+  "version": "1.0.0",
+  "description": "Blog app written in vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blue2525989/blogger.git"
+  },
+  "keywords": [
+    "blog",
+    "car",
+    "wrx",
+    "subaru"
+  ],
+  "author": "Jason Bierbrauer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blue2525989/blogger/issues"
+  },
+  "homepage": "https://github.com/blue2525989/blogger#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
